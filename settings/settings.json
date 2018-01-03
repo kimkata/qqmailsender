@@ -1,0 +1,18 @@
+{
+ "settings_of_chrome": {
+  "profile.default_content_setting_values.plugins": 0,
+  "profile.default_content_setting_values.cookies": 0,
+  "profile.default_content_setting_values.notifications": 0,
+  "profile.default_content_setting_values.background_sync": 0,
+  "profile.default_content_setting_values.images": 0,
+  "profile.default_content_setting_values.javascript": 0,
+  "profile.default_content_settings.popups": 0
+ },
+ "threads_max": 1,
+ "mails_count_in_each_thread": 2,
+ "settings_of_lianzhong": {
+  "username": "",
+  "password": ""
+ },
+ "address_num_in_each_mail": 1
+}
